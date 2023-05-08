@@ -1,1 +1,1 @@
-# pass-gen-chrome
+# Password Generator Extention for Google Chrome
