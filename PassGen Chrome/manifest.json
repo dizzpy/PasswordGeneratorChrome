@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Pass Gen",
+    "version": "1.0",
+    "description": "Password Generator is the ultimate tool for generating strong and secure passwords With just a few clicks.",
+    "icons": {
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    },
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": "icon16.png"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
